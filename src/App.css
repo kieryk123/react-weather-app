@@ -1,0 +1,29 @@
+.card {
+	border-radius: 10px;
+	padding: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: #16a085;
+	color: white;
+}
+
+.btn {
+	background-color: #3498db;
+	border: 2px solid white;
+	box-shadow: none;
+	outline: none;
+	padding: 8px 15px;
+	color: white;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+.input {
+	padding: 8px 15px;
+	border: 2px solid white;
+}
+
+.input:focus {
+	outline: none;
+}
